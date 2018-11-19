@@ -1,0 +1,762 @@
+SlNo,Course
+1,Advanced diploma in Dredging technology
+2,Appreciation Programme on Citizen Journalism
+3,Bachelor in Hotel Management
+4,Bachelor of Architecture
+5,Bachelor of Architecture Interior Design
+6,Bachelor of Arts
+7,Bachelor of Arts & Bachelor of Law
+8,Bachelor of Arts (General)
+9,Bachelor of Arts Acient Indian Culture
+10,Bachelor of Arts Arabic
+11,Bachelor of Arts Arabic (Honors)
+12,Bachelor of Arts Bengali
+13,Bachelor of Arts Bengali (Honors)
+14,Bachelor of Arts Business Economics
+15,Bachelor of Arts Business Economics (Honors)
+16,Bachelor of Arts Economics
+17,Bachelor of Arts Economics (Honors)
+18,Bachelor of Arts Education
+19,Bachelor of Arts English
+20,Bachelor of Arts English (Honors)
+21,Bachelor of Arts Folklore
+22,Bachelor of Arts Geography
+23,Bachelor of Arts Geography (Honors)
+24,Bachelor of Arts Gujarati
+25,Bachelor of Arts Hindi
+26,Bachelor of Arts Hindi (Honors)
+27,Bachelor of Arts Hindi Patrakarita Evam Jansanchar
+28,Bachelor of Arts Hindi Patrakarita Evam Jansanchar (Honors)
+29,Bachelor of Arts History
+30,Bachelor of Arts History (Honors)
+31,Bachelor of Arts Home Science
+32,Bachelor of Arts Home Science (Honors)
+33,Bachelor of Arts International Hospitality Administration
+34,Bachelor of Arts Journalism
+35,Bachelor of Arts Marathi
+36,Bachelor of Arts Mathematics
+37,Bachelor of Arts Mathematics (Honors)
+38,Bachelor of Arts Music
+39,Bachelor of Arts Music (Honors)
+40,Bachelor of Arts Persian
+41,Bachelor of Arts Persian (Honors)
+42,Bachelor of Arts Philosophy
+43,Bachelor of Arts Philosophy (Honors)
+44,Bachelor of Arts Political Science
+45,Bachelor of Arts Political Science (Honors)
+46,Bachelor of Arts Politics
+47,Bachelor of Arts Prayojan Mulak Hindi
+48,Bachelor of Arts Psychology
+49,Bachelor of Arts Psychology (Honors)
+50,Bachelor of Arts Public Service
+51,Bachelor of Arts Punjabi
+52,Bachelor of Arts Punjabi (Honors)
+53,Bachelor of Arts Sanskrit
+54,Bachelor of Arts Sanskrit (Honors)
+55,Bachelor of Arts Social Work
+56,Bachelor of Arts Social Work (Honors)
+57,Bachelor of Arts Sociology
+58,Bachelor of Arts Sociology (Honors)
+59,Bachelor of Arts Tamil
+60,Bachelor of Arts Urdu
+61,Bachelor of Arts Urdu (Honors)
+62,Bachelor of Arts Vocational Studies
+63,Bachelor of Arts Vyavaharik and Upyojit Marathi
+64,Bachelor of Audiology and Speech Language Pathology
+65,Bachelor of Ayurvedic Medicine & Surgery
+66,Bachelor of Business Administration
+67,Bachelor of Business Administration (Foreign Trade)
+68,Bachelor of Business Administration (Hospitality Managment)
+69,Bachelor of Business Administration (Hospitality Managment/Tourist & Travel Management)
+70,Bachelor of Business Administration (Information Systems Management)
+71,Bachelor of Business Administration (Information Technology Management)
+72,Bachelor of Business Administration (Shipping)
+73,Bachelor of Business Administration Hotel & Tourism Management
+74,Bachelor of Business Administration Insurance & Banking
+75,Bachelor of Business Adminsitration
+76,Bachelor of Business Management
+77,Bachelor of Business Studies
+78,Bachelor of Commerce
+79,Bachelor of Commerce (General)
+80,Bachelor of Commerce (Honors)
+81,Bachelor of Commerce (Professional)
+82,Bachelor of Commerce Accountancy
+83,Bachelor of Commerce Accounting and Finance
+84,Bachelor of Commerce Banking & Insurance
+85,Bachelor of Commerce Banking and Finance
+86,Bachelor of Commerce Business Economics
+87,Bachelor of Commerce Corporate Law
+88,Bachelor of Commerce Economics
+89,Bachelor of Commerce Environmental Science
+90,Bachelor of Commerce Financial Markets
+91,Bachelor of Commerce Vocational
+92,Bachelor of Computer Application
+93,Bachelor of Dental Surgery
+94,Bachelor of Education
+95,Bachelor of Education (English)
+96,Bachelor of Education Hearing Impairment
+97,Bachelor of Education Vacational
+98,Bachelor of Elementary Education
+99,Bachelor of Engieering Petroleum Engineering and Offshore Engineering
+100,Bachelor of Engineering Aeronautical Engineering
+101,Bachelor of Engineering Automobile Engineering
+102,Bachelor of Engineering Biomedical Engineering
+103,Bachelor of Engineering Biotechnology
+104,Bachelor of Engineering Chemical Engineering
+105,Bachelor of Engineering Civil Engineering
+106,Bachelor of Engineering Computer Engineering
+107,Bachelor of Engineering Electrical & Electronics Engineering
+108,Bachelor of Engineering Electrical & Electronics Engineering (Marine)
+109,Bachelor of Engineering Electrical Engineering
+110,Bachelor of Engineering Electronics & Instrumentation Engineering
+111,Bachelor of Engineering Electronics and Telecommunication Engineering
+112,Bachelor of Engineering Electronics Engineering
+113,Bachelor of Engineering Harbour & Ocean Engineering
+114,Bachelor of Engineering Humanities and Applied Sciences
+115,Bachelor of Engineering Industrial Engineering
+116,Bachelor of Engineering Information Technology
+117,Bachelor of Engineering Instrumentation & Control Engineering
+118,Bachelor of Engineering Instrumentation Engineering
+119,Bachelor of Engineering Manufacturing Processes & Automation Engineering
+120,Bachelor of Engineering Marine Engineering
+121,Bachelor of Engineering Mechanical Engineering
+122,Bachelor of Engineering Naval Architecture and Offshore Engineering
+123,Bachelor of Engineering Production Engineering
+124,Bachelor of Financial & Investment Analysis
+125,Bachelor of Fine Art
+126,Bachelor of Fine Art (Applied Art)
+127,Bachelor of Fine Art (Art History)
+128,Bachelor of Fine Art (General)
+129,Bachelor of Fine Art (Painting)
+130,Bachelor of Fine Art (Print Making)
+131,Bachelor of Fine Art (Sculpture)
+132,Bachelor of Fine Art (Visual Communication)
+133,Bachelor of Home Science
+134,Bachelor of Home Science Apparel Production & Management
+135,Bachelor of Home Science Journalism & Mass Communication
+136,Bachelor of Home Science Organization & Management of Early Childhood Programmes
+137,Bachelor of Homoeopathic Medicine & Surgery
+138,Bachelor of Journalism & Mass Communication
+139,Bachelor of Journalism & Mass Communication (Honors)
+140,Bachelor of Law
+141,Bachelor of Law & Master of Law
+142,Bachelor of Law (General)
+143,Bachelor of Law (Special))
+144,Bachelor of Legal Science and Bachelor of Law
+145,Bachelor of Library Science
+146,Bachelor of Management Studies
+147,Bachelor of Management Studies (Honors)
+148,Bachelor of Mass Media
+149,Bachelor of Medicine & Bachelor of Surgery
+150,Bachelor of Optometry
+151,Bachelor of Performing Arts
+152,Bachelor of Performing Arts (Dance)
+153,Bachelor of Performing Arts (Music)
+154,Bachelor of Pharmacy
+155,Bachelor of Physical Education
+156,Bachelor of Physiotherapy
+157,Bachelor of Science
+158,Bachelor of Science (Agriculture Biotechnology)
+159,Bachelor of Science (General)
+160,Bachelor of Science (Medical Technology) Radiology
+161,Bachelor of Science Agriculture
+162,Bachelor of Science Agrilcultural Marketing & Business Management
+163,Bachelor of Science Anthropology
+164,Bachelor of Science Anthropology (Honors)
+165,Bachelor of Science Aviation
+166,Bachelor of Science Biochemistry
+167,Bachelor of Science Biochemistry (Honors)
+168,Bachelor of Science Biological Sciences
+169,Bachelor of Science Biological Sciences (Honors)
+170,Bachelor of Science Biomedical Sciences
+171,Bachelor of Science Biomedical Sciences (Honors)
+172,Bachelor of Science Biotechnology
+173,Bachelor of Science Botany
+174,Bachelor of Science Botany (Honors)
+175,Bachelor of Science Chemistry
+176,Bachelor of Science Chemistry (Honors)
+177,Bachelor of Science Commercial Agriculture & Business Management
+178,Bachelor of Science Computer Science
+179,Bachelor of Science Enviormental Sciences
+180,Bachelor of Science Fashion & Apparel Designing
+181,Bachelor of Science Fashion Design
+182,Bachelor of Science Fashion Technology
+183,Bachelor of Science Fisheries
+184,Bachelor of Science Food Technology
+185,Bachelor of Science Forensic Science
+186,Bachelor of Science Forestry
+187,Bachelor of Science Genetics
+188,Bachelor of Science Geology
+189,Bachelor of Science Geology (Honors)
+190,Bachelor of Science Home Science
+191,Bachelor of Science Home Science Interior Design
+192,Bachelor of Science Home Science Nutrition & Dietetics
+193,Bachelor of Science Horticulture
+194,Bachelor of Science Hotel Management and Catering Technology
+195,Bachelor of Science Hotel Management and Tourism
+196,Bachelor of Science Information Technology
+197,Bachelor of Science Interior Design
+198,Bachelor of Science Life Science
+199,Bachelor of Science Mathematics
+200,Bachelor of Science Mathematics (Honors)
+201,Bachelor of Science Medical Laboratory Technology
+202,Bachelor of Science Medical Technology
+203,Bachelor of Science Microbiology
+204,Bachelor of Science Microbiology (Honors)
+205,Bachelor of Science Nautical Science
+206,Bachelor of Science Nursing
+207,Bachelor of Science Nursing (Honors)
+208,Bachelor of Science Nursing (Post Basic)
+209,Bachelor of Science Nursing (Post Basic) (Distance Education)
+210,Bachelor of Science Occupational Therapy
+211,Bachelor of Science Physcial Sciences
+212,Bachelor of Science Physcial Sciences (Honors)
+213,"Bachelor of Science Physical Education, Health Education and Sports"
+214,"Bachelor of Science Physical Education, Health Education and Sports (Hons)"
+215,Bachelor of Science Physics
+216,Bachelor of Science Physics (Honors)
+217,Bachelor of Science Plant Biotechnology
+218,Bachelor of Science Statistics
+219,Bachelor of Science Statistics (Honors)
+220,Bachelor of Science Visual Communication
+221,Bachelor of Science Zoology
+222,Bachelor of Science Zoology (Honors)
+223,Bachelor of Social Work
+224,Bachelor of Socio Legal Sciences
+225,Bachelor of Technology
+226,Bachelor of Technology (Food Science)
+227,Bachelor of Technology Agriculture Engineering
+228,Bachelor of Technology Chemical Engineering
+229,Bachelor of Technology Civil Engineering
+230,Bachelor of Technology Computer Science
+231,Bachelor of Technology Computer Science and Engineering
+232,Bachelor of Technology Computer Science Engineering
+233,Bachelor of Technology Electrical and Electronics Engineering
+234,Bachelor of Technology Electronics
+235,Bachelor of Technology Electronics & Communication Engineering
+236,Bachelor of Technology Food Technology
+237,Bachelor of Technology Industrial Biotechnology
+238,Bachelor of Technology Information & Communication Technology
+239,Bachelor of Technology Information Technology
+240,Bachelor of Technology Instrumentation
+241,Bachelor of Technology Manufacturing Technology
+242,Bachelor of Technology Marine Engineering
+243,Bachelor of Technology Mechanical Engineering
+244,Bachelor of Technology Petroleum Engineering
+245,Bachelor of Technology PlasticsTechnology
+246,Bachelor of Technology Polymer Science
+247,Bachelor of Technology Psychological Science
+248,Bachelor of Unani Medicine and Surgery
+249,Bachelor of Veterinary Science and Animal Husbandry
+250,Bachelor of Visual Arts
+251,Bachelor of Visual Arts (Applied Art)
+252,Bachelor of Visual Arts (Painting)
+253,Bachelor of Visual Arts (Sculpture)
+254,Certificate in Welding Technology
+255,Craft Course in Cookery
+256,Craft Course in Food & Beverage Service
+257,Craft Course in Hotel Management & Catering Technology
+258,Craftmanship Course in Bakery & Confectionary
+259,Diploma in Agriculture
+260,Diploma in Business Journalism and Corporate Communication
+261,Diploma in Civil & Environmental Engineering
+262,Diploma in Dance
+263,Diploma in Early Childhood Education
+264,Diploma in Electrical Engineering
+265,Diploma in Electronics Engineering
+266,Diploma in Fashion and Textile Designing
+267,Diploma in Health-Care and Hospital Management
+268,Diploma in Interior Design and Decoration
+269,Diploma in Labour Laws & Practice
+270,Diploma in Mechanical Engineering
+271,Diploma in Music
+272,Diploma in Pharmacy
+273,Diploma in School Management
+274,Diploma in Taxation Law
+275,Diploma in Taxation Laws & Practice
+276,Diploma in Technical Chemistry
+277,Diploma in Textile Manufactures
+278,Doctor of Medicine Anaesthesia
+279,Doctor of Medicine Anatomy
+280,Doctor of Medicine Ayurveda Kayachikitsa
+281,Doctor of Medicine Ayurveda Kriya Sharir
+282,Doctor of Medicine Biochemistry
+283,Doctor of Medicine Community Medicine
+284,Doctor of Medicine Dermatology
+285,Doctor of Medicine Forensic Medicine
+286,Doctor of Medicine General Medicine
+287,Doctor of Medicine Homeopathic Philosophy
+288,Doctor of Medicine Homeopathy
+289,Doctor of Medicine Materia Medica
+290,Doctor of Medicine Medicine
+291,Doctor of Medicine Microbiology
+292,Doctor of Medicine Obstetrics & Gynecology
+293,Doctor of Medicine Orthopaedics
+294,Doctor of Medicine Otorhinolaryngology and Head & Neck Surgery
+295,Doctor of Medicine Paediatrics
+296,Doctor of Medicine Pathology
+297,Doctor of Medicine Pharmacology
+298,Doctor of Medicine Physiology
+299,Doctor of Medicine Psychiatry
+300,Doctor of Medicine Pulmonary Medicine
+301,Doctor of Medicine Radio-Diagnosis
+302,Doctor of Medicine Radiology
+303,Doctor of Medicine Radio-Therapy
+304,Doctor of Medicine Repertory
+305,Doctor of Medicine Tuberculosis & Chest diseases
+306,Doctor of Medicine Unani Moalejat
+307,Doctor of Philosophy Agricultural Process & Food Engineering
+308,Doctor of Philosophy Banking & Finance
+309,Doctor of Philosophy Biochemistry
+310,Doctor of Philosophy Biology
+311,Doctor of Philosophy Biomedical Sciences
+312,Doctor of Philosophy Chemistry
+313,Doctor of Philosophy Education
+314,Doctor of Philosophy Farm Machinery & Power
+315,Doctor of Philosophy Gujarati
+316,Doctor of Philosophy Hindi
+317,Doctor of Philosophy in Forest Ecology & Environment
+318,Doctor of Philosophy in Forest Management
+319,Doctor of Philosophy Inorganic Chemistry
+320,Doctor of Philosophy Kannada
+321,Doctor of Philosophy Law
+322,Doctor of Philosophy Management Studies
+323,Doctor of Philosophy Marathi
+324,Doctor of Philosophy Marine Biotechnology
+325,Doctor of Philosophy Maritime Management
+326,Doctor of Philosophy Mechanical Engineering
+327,Doctor of Philosophy Medical Biochemistry
+328,Doctor of Philosophy Medical Pharmacology
+329,Doctor of Philosophy Microbiology
+330,Doctor of Philosophy Nursing
+331,Doctor of Philosophy Organic Chemistry
+332,Doctor of Philosophy Petroleum Engineering
+333,Doctor of Philosophy Pharmaceutical Analysis
+334,Doctor of Philosophy Pharmaceutical Chemistry
+335,Doctor of Philosophy Pharmaceutics
+336,Doctor of Philosophy Pharmacognosy
+337,Doctor of Philosophy Pharmacology
+338,Doctor of Philosophy Pharmacy
+339,Doctor of Philosophy Philosophy
+340,Doctor of Philosophy Physiology
+341,Doctor of Philosophy Pulmonary Medicne
+342,Doctor of Philosophy Social Work
+343,Doctor of Philosophy Soil & Water Engineering
+344,Doctor of Philosophy Special Education
+345,Doctor of Philosophy Zoology
+346,Doctorate in Agriculture
+347,Doctorate in Agriculture Engineering
+348,Doctorate in Fisheries
+349,Doctorate in Microbiology
+350,Doctorate in Veterinary Science and Animal Husbandary
+351,Doctrate in Medicine Pulmonary Medicine
+352,Entrepreneurial Master of Business Administration
+353,Fellow Programme in Management
+354,Integrated Bachelor of Arts and Bachelor of Law
+355,Integrated Master of Business Administration
+356,Integrated Master of Philosophy and Doctor of Philosophy English
+357,Integrated Master of Philosophy and Doctor of Philosophy Management
+358,Integrated Master of Tourism Administration
+359,Integrated Masters in Life Science
+360,Master of Agricultural Business Management
+361,Master of Architecture
+362,Master of Architecture (By Research)
+363,Master of Architecture (General)
+364,Master of Architecture Architectural and Urban Conservation
+365,Master of Architecture Construction Management
+366,Master of Architecture Environmental Architecture
+367,Master of Architecture Real Estate Development
+368,Master of Architecture Urban and Regional Planning
+369,Master of Architecture Urban Design
+370,Master of Arts
+371,"Master of Arts (Diplomacy, Law & Business)"
+372,Master of Arts Ancient History & Archaeology
+373,Master of Arts Arabic
+374,Master of Arts Communication & Media Studies
+375,Master of Arts Communication and Journalism
+376,Master of Arts Convergent Journalism
+377,Master of Arts Disability Communication and Deaf Studies
+378,Master of Arts Economics
+379,Master of Arts Education
+380,Master of Arts English
+381,Master of Arts English (English Language Training)
+382,Master of Arts Geography
+383,Master of Arts Gujarati
+384,Master of Arts Hindi
+385,Master of Arts History
+386,Master of Arts Mahayana Buddhist Studies
+387,Master of Arts Mathematics
+388,Master of Arts Music
+389,Master of Arts Persian
+390,Master of Arts Philosophy
+391,Master of Arts Political Science
+392,Master of Arts Psychology
+393,Master of Arts Public Administration
+394,Master of Arts Public Policy
+395,Master of Arts Public Relations
+396,Master of Arts Punjabi
+397,Master of Arts Rural Development
+398,Master of Arts Sanskrit
+399,Master of Arts Sociology
+400,Master of Arts Telugu
+401,Master of Arts Tourism Management
+402,Master of Arts Urdu
+403,Master of Business Administration
+404,Master of Business Administration (Business Economics)
+405,Master of Business Administration Hospital Administration
+406,Master of Business Administration Hospitality Management
+407,Master of Business Administration Human Resource Management
+408,Master of Business Administration Insurance & Banking
+409,Master of Business Administration International Business
+410,Master of Business Administration Tourism and Travel Management
+411,Master of Business Administration Tourism Management
+412,Master of Business Application Agriculture Management
+413,Master of Business Management
+414,Master of Business Management (Marine Human Resource Management)
+415,Master of Business Management (Shipping & Logistics Management)
+416,Master of Business Management (Shipping Finance)
+417,Master of Commerce
+418,Master of Commerce (Accounting & Financial Management)
+419,Master of Commerce (General)
+420,Master of Commerce (Human Resource Management)
+421,Master of Commerce (International Banking & Accounting)
+422,Master of Commerce Accontancy
+423,Master of Commerce Accounting and Auditing
+424,Master of Commerce Advance Accounting
+425,Master of Commerce Banking and Finance
+426,Master of Commerce Business Finance
+427,Master of Commerce Industrial Economics
+428,Master of Commerce Management
+429,Master of Computer Application
+430,Master of Education
+431,Master of Education Hearing Impairment
+432,Master of Engineering Communication Systems
+433,Master of Engineering Computer Aided Design / Computer Aided Machining
+434,Master of Engineering Computer Engineering
+435,Master of Engineering Electrical Engineering
+436,Master of Engineering Electronics & Telecommunication
+437,Master of Engineering Electronics Engineering
+438,Master of Engineering Information Technology (Information Security)
+439,Master of Engineering Instrumentation & Control
+440,Master of Engineering Mechanical Engineering
+441,Master of Engineering Mechanical Engineering (CAD / CAM)
+442,Master of Engineering Mechanical Engineering (Energy Engineering)
+443,Master of Engineering Power Electronics & Drives
+444,Master of Engineering VLSI Design
+445,Master of Financial Management
+446,Master of Fine Art Applied Art
+447,Master of Fine Art Painting
+448,Master of Fine Art Print Making
+449,Master of Fine Art Sclupture
+450,Master of Fine Art Visual Communication
+451,Master of Fine Arts Illustration
+452,Master of Fine Arts Typography
+453,Master of Human Resource Development
+454,Master of Human Resource Management
+455,Master of Information Management
+456,Master of Labour Welfare
+457,Master of Laws
+458,Master of Library Science
+459,Master of Management Studies
+460,Master of Marketing Management
+461,Master of Occupational Therapy
+462,Master of Optometry
+463,Master of Performing Arts
+464,Master of Performing Arts (Dance)
+465,Master of Pharmacy
+466,Master of Pharmacy Clinical Research
+467,Master of Pharmacy Herbal Drug Technology
+468,Master of Pharmacy Hospital Pharmacy
+469,Master of Pharmacy Pharmaceutical Analysis
+470,Master of Pharmacy Pharmaceutical Chemistry
+471,Master of Pharmacy Pharmaceutical Management
+472,Master of Pharmacy Pharmaceutics
+473,Master of Pharmacy Pharmacognosy
+474,Master of Pharmacy Pharmacology
+475,Master of Pharmacy Quality Assurance
+476,Master of Philosophy
+477,Master of Philosophy (Natural Resource Mangement)
+478,Master of Philosophy Biomedical Sciences
+479,Master of Philosophy Marine Biotechnology
+480,Master of Philosophy Marine Microbiology
+481,Master of Philosophy Nursing
+482,Master of Physical Education
+483,Master of Physiotherapy
+484,Master of Science
+485,Master of Science (Horticulture)
+486,Master of Science (Medical Imaging Technology) Radiology
+487,Master of Science (Post Harvest Management)
+488,Master of Science Agriculture
+489,Master of Science Analytical Chemistry
+490,Master of Science Analytical Chemistry (Research)
+491,Master of Science Anatomy
+492,Master of Science and Doctor of Philosophy Biomedical Sciences
+493,Master of Science Anthropology
+494,Master of Science Applied Genetics
+495,Master of Science Applied Mathematics
+496,Master of Science Aquaculture
+497,Master of Science Biochemistry
+498,Master of Science Bioinformatics
+499,Master of Science Biomedical Sciences
+500,Master of Science Biotechnology
+501,Master of Science Botany
+502,Master of Science Chemistry
+503,Master of Science Chemistry (Research)
+504,Master of Science Computer Science
+505,Master of Science Defence Science
+506,Master of Science Earth Science
+507,Master of Science Electronics
+508,Master of Science Electronics & Communication
+509,Master of Science Electronics & Instrumentation Technology
+510,Master of Science Environment Science Technology
+511,Master of Science Environmental Sciences
+512,Master of Science Fabric & Apparel Science
+513,Master of Science Fisheries
+514,Master of Science Foods & Nutrition
+515,Master of Science Forensic Science
+516,Master of Science Forestry
+517,Master of Science Genetics
+518,Master of Science Geology
+519,Master of Science Home Science
+520,Master of Science Home Science (Family Resource Management)
+521,Master of Science Home Science (Food Biotechnology)
+522,Master of Science Home Science (Food Nutrition and Dietetics)
+523,Master of Science Home Science (Food Processing and Preservation)
+524,Master of Science Home Science (Human Development)
+525,Master of Science Home Science (Sports Nutrition)
+526,Master of Science Home Science (Textile & Clothing)
+527,Master of Science Home Science (Textile and Fashion Technology)
+528,Master of Science Hotel & Tourism Studies
+529,Master of Science Industrial BioTechnology
+530,Master of Science Industrial Polymer Chemistry
+531,Master of Science Informatics
+532,Master of Science Information Technology
+533,Master of Science Inorganic Chemistry
+534,Master of Science Inorganic Chemistry (Research)
+535,Master of Science Instrumentation
+536,Master of Science Marine Biotechnology
+537,Master of Science Material Science & Technology
+538,Master of Science Mathematics
+539,Master of Science Medical Laboratory Technology
+540,Master of Science Microbiology
+541,Master of Science Microbiology (Research)
+542,Master of Science Nano-Biotechnology
+543,Master of Science NanoScience & NanoTechnology
+544,Master of Science Nano-Technology
+545,Master of Science Nursing
+546,Master of Science Oceanography Fisheries and Aquaculture
+547,"Master of Science Oils, Fats & Waxes"
+548,Master of Science Operational Research
+549,Master of Science Organic Chemistry
+550,Master of Science Organic Chemistry (Research)
+551,Master of Science Pharmaceutical Chemistry
+552,Master of Science Pharmacology
+553,Master of Science Physical Chemistry
+554,Master of Science Physics
+555,Master of Science Physics (Electronics)
+556,Master of Science Physics (Material Science)
+557,Master of Science Physiology
+558,Master of Science Polymer Science & Technology
+559,Master of Science Renewable Energy
+560,Master of Science Renewable Energy (Energy Management)
+561,Master of Science Renewable Energy (Environment Modeling)
+562,Master of Science Renewable Energy (System Technology)
+563,Master of Science Statistics
+564,Master of Science Statistics (Quality & Productivity Management)
+565,Master of Science Statistics (Quality Reliability & Operations Research)
+566,Master of Science Surface Coating Technology
+567,Master of Science Taxonomy
+568,Master of Science Zoology
+569,Master of Science Zoology (Research)
+570,Master of Social Work
+571,Master of Surgery Anatomy
+572,Master of Surgery Ear Nose & Throat
+573,Master of Surgery General Surgery
+574,Master of Surgery Ophthalmology
+575,Master of Surgery Orthopaedics
+576,Master of Surgery Otorhinolaryngology
+577,Master of Surgery Surgery
+578,Master of Technology Agricultural Process & Food Engineering
+579,Master of Technology Agriculture Engineering
+580,Master of Technology Biotechnology
+581,Master of Technology Computer Engineering
+582,Master of Technology Computer Engineering (Information Systems)
+583,Master of Technology Computer Science & Technology
+584,Master of Technology Electronics & Communication Engineering
+585,Master of Technology Electronics & Communication Engineering ( Signal Processing)
+586,Master of Technology Energy Management
+587,Master of Technology in Farm Machinery & Power
+588,Master of Technology Information & Communication Technology
+589,Master of Technology Instrumentation & Control Engineering
+590,Master of Technology Instrumentation & Control Engineering (Process Control)
+591,Master of Technology Manufacturing & Automation
+592,Master of Technology Marine Engineering Management
+593,Master of Technology Petroleum Technology
+594,Master of Technology Plastics Technology
+595,Master of Technology Soil & Water Engineering
+596,Master of Tourism Administration
+597,Master of Tourism and Travel Management
+598,Master of Urban Planning
+599,Master of Veterinary Science
+600,Masters in Heritage Management
+601,Masters in Life Sciences
+602,Post Diploma in Interior Designing & Decoration
+603,Post Graduate Diploma Anaesthesia
+604,Post Graduate Diploma in Advertising & Marketing Communication
+605,Post Graduate Diploma In Advertising & Media
+606,Post Graduate Diploma in Ambedkar Studies
+607,Post Graduate Diploma in Business Administration
+608,Post Graduate Diploma in Business Management
+609,Post Graduate Diploma in Child Health
+610,Post Graduate Diploma in Computer Applications
+611,Post Graduate Diploma in Corporate Communication & Event Management
+612,Post Graduate Diploma in Criminal Law
+613,Post Graduate Diploma in Defence Materials
+614,Post Graduate Diploma in Dermatology & Venerology
+615,Post Graduate Diploma in Dietetics and Public Health Nutrition
+616,Post Graduate Diploma in Digital and Cyber Forensics and related Laws
+617,Post Graduate Diploma in Forensic Science and related Laws
+618,Post Graduate Diploma in Forestry Management
+619,Post Graduate Diploma in Geriatric Medicine
+620,Post Graduate Diploma in Global Business Operations
+621,Post Graduate Diploma in Health and Social Gerontology
+622,Post Graduate Diploma in Horticulture and Landscape Gardening
+623,Post Graduate Diploma in Intellectual Property Rights
+624,Post Graduate Diploma in International Marketing
+625,Post Graduate Diploma in Labour Law and Labour Welfare
+626,Post Graduate Diploma in Management
+627,Post Graduate Diploma in Management of Education
+628,Post Graduate Diploma in Maternal and Child Health
+629,Post Graduate Diploma in Media & Disability Communication
+630,Post Graduate Diploma in Medical Laboratory Technology
+631,Post Graduate Diploma in Medical Radio Diagnosis
+632,Post Graduate Diploma in Obstetrics and Gynaecology
+633,Post Graduate Diploma in Ophthalmology
+634,Post Graduate Diploma in Orthopaedics
+635,Post Graduate Diploma in Otorhinolaryngology
+636,Post Graduate Diploma in Pathology
+637,Post Graduate Diploma in Social Media & Web Journalism
+638,Post Graduate Diploma in Taxation Laws
+639,Post Graduate Diploma in Television & Radio Journalism / Production
+640,Post Graduate Diploma in Tuberculosis & Chest Disease
+641,Post Graduate Diploma in Yoga for Human Excellence
+642,"Postgraduate Diploma in Clinical Studies, Data Management & Medical Writing"
+643,Preparatory course for Doctor of Philosophy Biotechnology
+644,Volunteering for a Better World
+645,Doctor of Pharmacy
+646,Doctor of Philosophy
+647,Master of Fine Arts
+648,Master of Science in Agriculture
+649,Master of Surgery
+650,Master of Mass Communications
+651,Master of Fishery Science
+652,Master of Design
+653,Master of Dental Surgery
+654,Doctor of Medicine in Homoeopathy
+655,Doctor of Medicine
+656,Master of Chirurgiae
+657,Master of Computer Applications
+658,Bachelor of Medicine and Bachelor of Surgery
+659,Master in Home Science
+660,Bachelor of Laws
+661,Doctorate of Medicine
+662,Bachelor of Fine Arts
+663,Bachelor of Veterinary Science & Animal Husbandry
+664,Bachelor of Agriculture
+665,Bachelor of Computer Science
+666,Bachelor of Nursing
+667,Bachelor of Mass Communications
+668,Bachelor of Homeopathic Medicine and Surgery
+669,Bachelor of Fisheries Science
+670,Bachelor of Design
+671,Bachelor of Computer Applications
+672,Bachelor of Engineering
+673,Master of Engineering
+674,XI Arts
+675,XI Commerce
+676,XI Science
+677,XII Arts
+678,XII Commerce
+679,XII Science
+680,M. Tech
+681,B. Tech
+682,B.V.Sc. & A.H.
+683,A.H.
+684,B.A.
+685,B.A.M.S.
+686,B.Arch
+687,B.Arch.
+688,B.B.A.
+689,B.C.A.
+690,B.com
+691,B.Com.
+692,B.D.
+693,B.D.S.
+694,B.Des.
+695,B.E.
+696,B.Ed.
+697,B.F.Sc.
+698,B.H.M.S.
+699,B.Lib.
+700,B.Lib.Sc.
+701,B.M.C.
+702,B.M.M.
+703,B.P.Ed.
+704,B.P.T.
+705,B.Pharm
+706,B.Pharm.
+707,B.Sc.
+708,B.tech
+709,B.Tech.
+710,B.V.Sc
+711,B.V.Sc.
+712,BA
+713,BBA
+714,BCA
+715,BE
+716,BFA
+717,BSC
+718,BSW
+719,BVA
+720,D.M.
+721,L.L.B.
+722,L.L.M.
+723,M.A.
+724,M.Arch.
+725,M.B.A.
+726,M.B.B.S.
+727,M.C.A.
+728,M.Ch.
+729,M.com
+730,M.Com.
+731,M.D.
+732,M.D.S.
+733,M.Des.
+734,M.Design.
+735,M.E.
+736,M.Ed.
+737,M.F.Sc.
+738,M.Lib.
+739,M.Lib.Sc.
+740,M.M.C
+741,M.M.M.
+742,M.P.Ed.
+743,M.P.T.
+744,M.Pharm
+745,M.Phil.
+746,M.S.
+747,M.S.W.
+748,M.Sc.
+749,M.Tech
+750,M.Tech.
+751,M.V.Sc.
+752,MA
+753,MBA
+754,MCA
+755,MFA
+756,MS
+757,MSC
+758,MVA
+759,Ph.D.
+760,Pharm.D
+761,Phd
